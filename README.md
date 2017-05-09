@@ -1,4 +1,3 @@
 # EcoCityCraft's items.csv file.
 EcoCityCraft items.csv file.
-
-Feel free to help keep it up to date & make changes with pull requests.
+If you would like to help us maintain this file please read: https://www.ecocitycraft.com/forum/threads/.165663/
