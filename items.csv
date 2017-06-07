@@ -3594,7 +3594,7 @@ MTerra,159,2
 LBTerra,159,3
 YTerra,159,4
 LimeTerra,159,5
-pinnTerra,159,6
+pinTerra,159,6
 GrayTerra,159,7
 LGTerra,159,9
 CTerra,159,9
@@ -3610,7 +3610,7 @@ Mcotta,159,2
 LBcotta,159,3
 Ycotta,159,4
 Limecotta,159,5
-pinncotta,159,6
+pincotta,159,6
 Graycotta,159,7
 LGcotta,159,8
 Ccotta,159,9
@@ -4321,7 +4321,7 @@ MGlazed,237,0
 LBGlazed,238,0
 YGlazed,239,0
 LimeGlazed,240,0
-pinnGlazed,241,0
+pinGlazed,241,0
 GrayGlazed,242,0
 LGGlazed,243,0
 CGlazed,244,0
@@ -4337,7 +4337,7 @@ MGTerra,237,0
 LBGTerra,238,0
 YGTerra,239,0
 LimeGTerra,240,0
-pinnGTerra,241,0
+pinGTerra,241,0
 GrayGTerra,242,0
 LGGTerra,243,0
 CGTerra,244,0
@@ -4433,7 +4433,7 @@ MPow,252,2
 LBPow,252,3
 YPow,252,4
 LimePow,252,5
-pinnPow,252,6
+pinPow,252,6
 GrayPowd,252,7
 LGPow,252,8
 CPow,252,9
@@ -5405,7 +5405,7 @@ Mbed,355,2
 LBbed,355,3
 Ybed,355,4
 Limebed,355,5
-pinnbed,355,6
+pinbed,355,6
 Graybed,355,7
 LGbed,355,8
 Cbed,355,9
